@@ -5,4 +5,4 @@
 <div class="w-stack w-stack--center w-stack--md">   <img src="lcp_ux.svg" width="400px" height="350px" alt="Largest Contentful Paint threshold recommendations">   <img src="fid_ux.svg" width="400px" height="350px" alt="First Input Delay threshold recommendations">   <img src="cls_ux.svg" width="400px" height="350px" alt="Cumulative Layout Shift threshold recommendations">
 </div>
 
-<foocomponent>usig components in markdown</foocomponent>
+<foocomponent>Verwendung von Komponenten im Markdown</foocomponent>
